@@ -1,0 +1,368 @@
+canonical_identifier: bkk:krp/KR3eg008/v1
+canonical_location: https://kanripo.org/bkk/KR3eg008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫熱經緯
+  identifiers:
+    krp: KR3eg008
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg008.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg008_000.yaml, hash: 'sha256:6ae859e46dbecf8f804f98fd5ac07ae0e4ce755f1c4136bd38f53f6cbcf91e38'}
+  - {seq: 1, filename: KR3eg008_001.yaml, hash: 'sha256:f9ff426b83a1bffe5cd16198e5ac70a1d86aae00a9fbede461de992780765d1f'}
+  - {seq: 2, filename: KR3eg008_002.yaml, hash: 'sha256:9b3373918b47c990275d7e6d986b393cd15b6b39e7797fdaecbc5a2777d05d0c'}
+  - {seq: 3, filename: KR3eg008_003.yaml, hash: 'sha256:df0bc3587b0e177ee2170adf9e264b41c72829d9c29a3211f49f3be0bdfeb355'}
+  - {seq: 4, filename: KR3eg008_004.yaml, hash: 'sha256:e760d5a38f9307b4d74509bab9ceed41f900213c0e257f79ab02f9faed2b87b4'}
+  - {seq: 5, filename: KR3eg008_005.yaml, hash: 'sha256:06b536208e0df0112829f5959ddf9566fd0f74ed178bf42034c35e37628be5b3'}
+  - {seq: 0, filename: KR3eg008_000.yaml, hash: 'sha256:6ae859e46dbecf8f804f98fd5ac07ae0e4ce755f1c4136bd38f53f6cbcf91e38'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg008_000.markers.yaml, hash: 'sha256:1af15eba87eba4cfdbb770bf6e2e04396940a9484e30fa7f7060380921f0207c'}
+  - {seq: 1, role: markers, filename: assets/KR3eg008_001.markers.yaml, hash: 'sha256:9550647d7a39c77393fa789e08b81e4dd21b05f0e0d0e2968447dd3be0686945'}
+  - {seq: 2, role: markers, filename: assets/KR3eg008_002.markers.yaml, hash: 'sha256:81a103490c7352a02497be7d2018aed1211a0aee36e8bf197482c1d17429b467'}
+  - {seq: 3, role: markers, filename: assets/KR3eg008_003.markers.yaml, hash: 'sha256:ef6a6cf8622eb9951cb9d1a0de0fde221ac7bb0fc9c4b49084907deb8a41f743'}
+  - {seq: 4, role: markers, filename: assets/KR3eg008_004.markers.yaml, hash: 'sha256:2879e57fb939e63f41cc34dcf62547f1aa35e1c45606b69aa3a306a397e1dcd3'}
+  - {seq: 5, role: markers, filename: assets/KR3eg008_005.markers.yaml, hash: 'sha256:e81e217e03a21c35aed039feb743ebb775621ef9fda430568f0b6a4f264fa427'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg008_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 297
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg008_jc_000-d3.h1s1
+    span:
+    - front
+    - 297
+    - 1432
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg008_jc_000-d4.h1s1
+    span:
+    - front
+    - 1432
+    - 1786
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg008_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6801
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg008_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 6801
+  label: 內經伏氣溫熱篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg008_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 17547
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eg008_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 4677
+  label: 仲景伏氣溫病篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg008_jc_002-d6d3
+    span:
+    - body
+    - 4677
+    - 5728
+  label: 仲景伏氣熱病篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg008_jc_002-d6d4
+    span:
+    - body
+    - 5728
+    - 9093
+  label: 仲景外感熱病篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg008_jc_002-d6d5
+    span:
+    - body
+    - 9093
+    - 11647
+  label: 仲景濕溫篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg008_jc_002-d6d6
+    span:
+    - body
+    - 11647
+    - 17547
+  label: 仲景疫病篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg008_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 22731
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg008_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 16590
+  label: 葉香岩外感溫熱篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg008_jc_003-d7d3
+    span:
+    - body
+    - 16590
+    - 22731
+  label: 葉香岩三時伏氣外感篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 34873
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8d2
+    span:
+    - body
+    - 2
+    - 4499
+  label: 陳平伯外感溫病篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8d3
+    span:
+    - body
+    - 4499
+    - 25475
+  label: 薛生白濕熱病篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8d4
+    span:
+    - body
+    - 25475
+    - 34873
+  label: 余師愚疫病篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d4
+    span:
+    - body
+    - 26096
+    - 26305
+  label: 論疫與傷寒似同而異
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d5
+    span:
+    - body
+    - 26305
+    - 26622
+  label: 論斑疹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d6
+    span:
+    - body
+    - 26622
+    - 26995
+  label: 論治疫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d7
+    span:
+    - body
+    - 26995
+    - 27407
+  label: 論治疹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d8
+    span:
+    - body
+    - 27407
+    - 27784
+  label: 論疫疹之脈不能表下
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d9
+    span:
+    - body
+    - 27784
+    - 27893
+  label: 論疹形治法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d10
+    span:
+    - body
+    - 27893
+    - 28116
+  label: 論疹色治法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d11
+    span:
+    - body
+    - 28116
+    - 28399
+  label: 論發瘡
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d12
+    span:
+    - body
+    - 28399
+    - 28540
+  label: 論妊娠病疫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d13
+    span:
+    - body
+    - 28540
+    - 28749
+  label: 論悶證
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d14
+    span:
+    - body
+    - 28749
+    - 29399
+  label: 疫診治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg008_jc_004-d8.d4d15
+    span:
+    - body
+    - 29399
+    - 34873
+  label: 疫證條辨
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eg008_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 24979
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eg008_jc_005-d9d2
+    span:
+    - body
+    - 2
+    - 24979
+  label: 方論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg008_jc_000-d10.h1s1
+    span:
+    - body
+    - 0
+    - 187
+  label: 唐跋
+  type: section
+  level: 1
+hash: sha256:bc4e6adb0c1e75e33bcb82344c2095ad887b561f452c1eb2967b93d338a5b9e9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
